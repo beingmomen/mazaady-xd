@@ -9,7 +9,9 @@
             <ContentTheSlider class="col-span-1" />
             <div class="col-span-9">
               <div class="img-container relative">
-                <img class="w-full" src="@/assets/images/big.svg" alt="big" />
+                <div class="h-[423.11px]">
+                  <img class="w-full" loading="lazy" src="@/assets/images/big.svg" alt="big" />
+                </div>
                 <ContentPersonInfo />
                 <ContentRightAbsolute />
                 <ContentLeftAbsolute />
