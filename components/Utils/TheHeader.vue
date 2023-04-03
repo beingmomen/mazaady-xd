@@ -29,7 +29,7 @@
         </button>
       </span>
     </div>
-    <UtilsTheLogo />
+    <UtilsTheLogo text="Hello, World!" />
   </section>
 </template>
 
